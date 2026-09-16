@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 2234.06,
+  "totalWagered": 2270.6,
   "playerCount": 5,
-  "cacheUpdatedAt": "2026-09-15 04:43:21",
-  "updatedAt": "2026-09-15T04:43:21.644Z",
+  "cacheUpdatedAt": "2026-09-16 01:04:19",
+  "updatedAt": "2026-09-16T01:04:19.107Z",
   "entries": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "masked": "lostbutterfly1",
       "hash": "c66667df2081dd82",
-      "wagered": 614.11,
+      "wagered": 650.65,
       "prize": 60
     },
     {

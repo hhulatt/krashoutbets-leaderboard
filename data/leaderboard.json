@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3222.68,
+  "totalWagered": 3252.85,
   "playerCount": 6,
-  "cacheUpdatedAt": "2026-09-25 04:44:16",
-  "updatedAt": "2026-09-25T04:44:16.460Z",
+  "cacheUpdatedAt": "2026-09-26 01:10:26",
+  "updatedAt": "2026-09-26T01:10:26.172Z",
   "entries": [
     {
       "rank": 1,
@@ -31,21 +31,21 @@
       "rank": 2,
       "masked": "lostbutterfly1",
       "hash": "c66667df2081dd82",
-      "wagered": 852.23,
+      "wagered": 862.86,
       "prize": 60
     },
     {
       "rank": 3,
       "masked": "Hotmomma",
       "hash": "e8d99ee0b4f8f463",
-      "wagered": 551.74,
+      "wagered": 571.25,
       "prize": 40
     },
     {
       "rank": 4,
       "masked": "laraaakrash",
       "hash": "63fc1fc44211a289",
-      "wagered": 92.36,
+      "wagered": 92.39,
       "prize": 30
     },
     {

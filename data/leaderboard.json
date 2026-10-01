@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-09-01",
-  "periodStart": "2026-09-01",
-  "periodEnd": "2026-09-30",
+  "cycle": "2026-10-01",
+  "periodStart": "2026-10-01",
+  "periodEnd": "2026-10-31",
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -15,52 +15,9 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3682.7,
-  "playerCount": 6,
-  "cacheUpdatedAt": "2026-09-30 05:22:05",
-  "updatedAt": "2026-09-30T05:22:05.524Z",
-  "entries": [
-    {
-      "rank": 1,
-      "masked": "Slinkydad420",
-      "hash": "b314a5f42bd6531d",
-      "wagered": 1829.65,
-      "prize": 100
-    },
-    {
-      "rank": 2,
-      "masked": "lostbutterfly1",
-      "hash": "c66667df2081dd82",
-      "wagered": 900.54,
-      "prize": 60
-    },
-    {
-      "rank": 3,
-      "masked": "Hotmomma",
-      "hash": "e8d99ee0b4f8f463",
-      "wagered": 571.25,
-      "prize": 40
-    },
-    {
-      "rank": 4,
-      "masked": "laraaakrash",
-      "hash": "63fc1fc44211a289",
-      "wagered": 345.43,
-      "prize": 30
-    },
-    {
-      "rank": 5,
-      "masked": "5starkrob",
-      "hash": "c0ba82276fa42477",
-      "wagered": 35.33,
-      "prize": 20
-    },
-    {
-      "rank": 6,
-      "masked": "RYAN141",
-      "hash": "9d5d91520de37447",
-      "wagered": 0.5,
-      "prize": 0
-    }
-  ]
+  "totalWagered": 0,
+  "playerCount": 0,
+  "cacheUpdatedAt": "2026-10-01 01:47:42",
+  "updatedAt": "2026-10-01T01:47:43.066Z",
+  "entries": []
 }

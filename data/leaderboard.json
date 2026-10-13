@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3153.67,
+  "totalWagered": 3153.71,
   "playerCount": 6,
-  "cacheUpdatedAt": "2026-10-12 05:44:13",
-  "updatedAt": "2026-10-12T05:44:13.589Z",
+  "cacheUpdatedAt": "2026-10-13 03:20:32",
+  "updatedAt": "2026-10-13T03:20:32.373Z",
   "entries": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "rank": 4,
       "masked": "laraaakrash",
       "hash": "63fc1fc44211a289",
-      "wagered": 458.85,
+      "wagered": 458.88,
       "prize": 30
     },
     {

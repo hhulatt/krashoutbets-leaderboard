@@ -1,0 +1,80 @@
+{
+  "cycle": "2026-10-01",
+  "periodStart": "2026-10-01",
+  "periodEnd": "2026-10-31",
+  "cycleMode": "monthly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "fullUsernames": false,
+  "prizePool": 250,
+  "prizes": [
+    100,
+    60,
+    40,
+    30,
+    20
+  ],
+  "boardSize": 25,
+  "totalWagered": 7141.04,
+  "playerCount": 8,
+  "cacheUpdatedAt": "2026-11-01 01:49:41",
+  "updatedAt": "2026-11-01T01:49:41.884Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "Sl********20",
+      "hash": "b314a5f42bd6531d",
+      "wagered": 2712.68,
+      "prize": 100
+    },
+    {
+      "rank": 2,
+      "masked": "Sp******ob",
+      "hash": "691465c5435c018f",
+      "wagered": 2645.51,
+      "prize": 60
+    },
+    {
+      "rank": 3,
+      "masked": "lo**********y1",
+      "hash": "c66667df2081dd82",
+      "wagered": 572.43,
+      "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "la*******sh",
+      "hash": "63fc1fc44211a289",
+      "wagered": 459.1,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "Ho****ma",
+      "hash": "e8d99ee0b4f8f463",
+      "wagered": 313.23,
+      "prize": 20
+    },
+    {
+      "rank": 6,
+      "masked": "5s*****ob",
+      "hash": "c0ba82276fa42477",
+      "wagered": 252.78,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "ve***x3",
+      "hash": "b99f9aeb24309b5f",
+      "wagered": 151.26,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "Ya*******ar",
+      "hash": "e0b47f13899b3b2a",
+      "wagered": 34.05,
+      "prize": 0
+    }
+  ]
+}
